@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmveupwj20a6201rcal85yy2h). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A stylophone card thing that can be used as a MIDI controller
+> A stylophone thing that is a standalone instrument and  can be used as a MIDI controller. All of that in a size of a debit card!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 14.22h | 4 |
+| Week 3 | Tier 1 | 10.74h | 4 |
 
 ## Contents
 
 1. [2026-10-22 – Yesterday I started designing my pcb but forgot to make a journal. But tbh yesterday and today I was doing the same thing, so yeah. I think that the pcb is almost done, tomorrow I might start coding,](#2026-10-22-yesterday-i-started-designing-my-pcb-but-forgot-t)
 2. [2026-10-23 – I finalized the PCB today but forgot to turn on lapse. I think I spent about 1.5h working today or a little bit more, I'm really happy with how it turned out!](#2026-10-23-i-finalized-the-pcb-today-but-forgot-to-turn-on-l)
 3. [2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my b](#2026-10-24-i-dont-know-why-but-my-hackatime-havent-logged-my)
-4. [2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my b](#2026-10-24-i-dont-know-why-but-my-hackatime-havent-logged-my)
+4. [2026-10-24 – Accidental journal, please ignore (0.0001 h logged - 0.36s)](#2026-10-24-accidental-journal-please-ignore-00001-h-logged--)
 
 ## Design
 
@@ -69,22 +69,14 @@ Also the like I was saying, I added some caps to the pcb. This is how it looks l
 
 TLDR: Did some coding, finalized the PCB and I think I'll be shipping the project today
 
-### 2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my b
+### 2026-10-24 – Accidental journal, please ignore (0.0001 h logged - 0.36s)
 
-**3.5h**
+**0.02h**
 
-I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my breaks.
+Accidental journal, please ignore (0.0001 h logged - 0.36s)
 
-I found a really dang big flaw with the pcb today when coding, the all of the analog pins on my arduino were just going crazy noisy when one of them had some voltage applied to it!
-![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/e6409f991db69f0000e07e142932f3f234d05e56b3111fe30f92115dc4024623.png)
-V1, V2 and V4 shouldn't be anything different than 0.00 (okay, higher than 0.3-0.4)!! I added some 10uF caps between gnd and each analog pin and the voltage read was way more accurate (I forgot to screenshot that). On the pcb there are going to be 1uF ceramics caps, because 10uF's just take too much time to drain to 0V.
+![e](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/5b32bde6e8870890e7f52279c776ff7d424b6afd8eb79d366dce07337a599861.png)
 
-Also I coded everything today and I think the code is going to work! The only feature that I think won't be perfect is the vibrato, but I'll find that out on week 8.
-![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/277fac11ae9f8e1ad55ba9d125bace4cfe3ac6d981d0a338e791532e36d01cca.png)
+.........................................................................................................................................
 
-Also the like I was saying, I added some caps to the pcb. This is how it looks like right now, the caps are on the back. The only thing left to do is the github repo and I think I'll ship the project today
-![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/177bf99ca9890ac97a697140fa2a2d4a8f09f39755501eea560efbdb5d2f9f2b.png)
-![pcb](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/486edf879faeaca046a2fe48797ef9ecb58bff3b4398c1f594a8b97f6a4208e3.png)
-(red rectangle covers my phone number)
-
-TLDR: Did some coding, finalized the PCB and I think I'll be shipping the project today
+![h](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/25564008bd4e52aa54472c463061a2343a6611568a31cd3af19c61bd46ef7fde.png)

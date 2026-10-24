@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 10.74h | 4 |
+| Week 3 | Tier 1 | 10.24h | 4 |
 
 ## Contents
 
 1. [2026-10-22 – Yesterday I started designing my pcb but forgot to make a journal. But tbh yesterday and today I was doing the same thing, so yeah. I think that the pcb is almost done, tomorrow I might start coding,](#2026-10-22-yesterday-i-started-designing-my-pcb-but-forgot-t)
 2. [2026-10-23 – I finalized the PCB today but forgot to turn on lapse. I think I spent about 1.5h working today or a little bit more, I'm really happy with how it turned out!](#2026-10-23-i-finalized-the-pcb-today-but-forgot-to-turn-on-l)
-3. [2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my b](#2026-10-24-i-dont-know-why-but-my-hackatime-havent-logged-my)
+3. [2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3 to compensate for my bre](#2026-10-24-i-dont-know-why-but-my-hackatime-havent-logged-my)
 4. [2026-10-24 – Accidental journal, please ignore (0.02 h logged - 1.2min)](#2026-10-24-accidental-journal-please-ignore-002-h-logged---1)
 
 ## Design
@@ -49,11 +49,11 @@ On the back is my name and my phone number (but I blurred the number). Also I ad
 
 Overall I think the PCB is done and I'll start working on the code tomorrow. Shouldn't be too hard I think!
 
-### 2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my b
+### 2026-10-24 – I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3 to compensate for my bre
 
-**3.5h**
+**3h**
 
-I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3.5 to compensate for my breaks.
+I don't know why, but my hackatime haven't logged my time or the project for some reason (yes, I have it installed and it worked before!). I worked for about 4h but I'll log 3 to compensate for my breaks etc.
 
 I found a really dang big flaw with the pcb today when coding, the all of the analog pins on my arduino were just going crazy noisy when one of them had some voltage applied to it!
 ![image](https://halflife.hackclub-assets.com/sessions/vhPuIXXulHs6LeuYMclarNIsOTRiD2p5/e6409f991db69f0000e07e142932f3f234d05e56b3111fe30f92115dc4024623.png)

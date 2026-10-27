@@ -1,5 +1,5 @@
 <center><h1>StyloBuzz</h1></center>
-<h3>Stylophone in a card size!</h3> 
+<h3>Stylophone in a card size!</h3> <hr>
 The purpose of this project was to create a cool looking business card. I really liked the <a href="https://mitxela.com/projects/stylocard">StyloCard</a> from Tim Jacobs so I made something like this, but with the ability to use it as a standalone instrument.<br>
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/2462ca1c-d005-4f06-9061-b3c0277953cd" /><br>
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/a6187d7d-f327-4ac7-8da0-10aaf30f8b18" />
@@ -63,9 +63,10 @@ Solder 1K ohm resistors in the place circled in the image above. Everywhere else
 <br>
 Btw, you can add your info (like your name, phone number, etc.) on the back of the PCB! Just import PCB1_StyloBuzz.epro2 to pro.easyeda.com and add an image to the back of your PCB. Remember to select bottom silkscreen as the layer! (also ignore all of the DRC warnings, they show up because I've use an image for the keyboard
 <hr>
-<h3>Projects and tutorials I used for some help:</h3><br>
+<h3>Projects and tutorials I used for some help, inspiration and things like that:</h3><br>
 https://github.com/guszhang/pcb-stylophone/tree/main<br>
-https://projecthub.arduino.cc/pitpietro/midi-piano-keyboard-875eb7<br><br>
+https://projecthub.arduino.cc/pitpietro/midi-piano-keyboard-875eb7<br>
+https://mitxela.com/projects/stylocard<br>
 <hr>
 No AI was used in making of this project.<br>
 <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />

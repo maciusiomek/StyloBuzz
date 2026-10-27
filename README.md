@@ -67,5 +67,5 @@ Btw, you can add your info (like your name, phone number, etc.) on the back of t
 https://github.com/guszhang/pcb-stylophone/tree/main<br>
 https://projecthub.arduino.cc/pitpietro/midi-piano-keyboard-875eb7<br><br>
 <hr>
-No AI was used in creation of this project.<br>
+No AI was used in making of this project.<br>
 <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />

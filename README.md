@@ -57,7 +57,7 @@ The overall price for me with shipping was about $18,50, but I already had the d
 <br>
 <br>
 <img width="500" height="auto" alt="ee" src="https://github.com/user-attachments/assets/74aa189b-66ad-4c5d-8206-af90a3fedae3" /><br>
-Solder 1K ohm resistors in the place circled bellow. Everywhere else solder in your 200 ohm resistors. Solder in your dev board, buttons and the buzzer. Boot up your ArduinoIDE and install MIDIUSB library made by Gary Grewal and flash the firmware (StyloBuzz.ino) onto your board! Congrats, you're done! Enjoy your StyloBuzz stylophone thingy!
+Solder 1K ohm resistors in the place circled in the image above. Everywhere else solder in your 200 ohm resistors. Solder in your dev board, buttons and the buzzer. Boot up your ArduinoIDE and install MIDIUSB library made by Gary Grewal and flash the firmware (StyloBuzz.ino) onto your board (choose Arduino Leonardo)! Congrats, you're done! Enjoy your StyloBuzz stylophone thingy!
 <br>
 <br>
 <br>

@@ -68,5 +68,5 @@ https://github.com/guszhang/pcb-stylophone/tree/main<br>
 https://projecthub.arduino.cc/pitpietro/midi-piano-keyboard-875eb7<br>
 https://mitxela.com/projects/stylocard<br>
 <hr>
-No AI was used in making of this project.<br>
+No AI was used in the making of this project.<br>
 <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />

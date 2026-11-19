@@ -1,8 +1,10 @@
 <center><h1>StyloBuzz</h1></center>
 <h3>Stylophone in a card size!</h3> <hr>
 The purpose of this project was to create a cool looking business card. I really liked the <a href="https://mitxela.com/projects/stylocard">StyloCard</a> from Tim Jacobs so I made something like this, but with the ability to use it as a standalone instrument.<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/2462ca1c-d005-4f06-9061-b3c0277953cd" /><br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/a6187d7d-f327-4ac7-8da0-10aaf30f8b18" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/d215be39-1dd1-42b5-9c06-fda4dcde25ef" />
+<br>
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/334acffd-dadb-400b-931d-2fbb7b6b4a3f" />
+
 <hr>
 <h2>Features.</h2>
 Basically, you just connect the USB C cable and can use it as a standalone instrument. You can also use it as a midi keyboard! There are two buttons on the side that you can use to change the range or add some vibrato (I haven't implemented vibrato to send midi commands, only octave buttons works for now). To play a sound, just connect a crocodile cable to the lighting in the top right corner and touch one of the pads with the other end!
@@ -32,8 +34,8 @@ The parts you'll need to get are listed in the table bellow:
   </tr>
   <tr>
     <td>1</td>
-    <td>Passive buzzer 12x8,5mm</td>
-    <td>About $1-1.50</td>
+    <td>Passive buzzer 9032 3V</td>
+    <td>About $1-1.50 for 10 on aliexpress</td>
   </tr>
   <tr>
     <td>2</td>
@@ -51,22 +53,27 @@ The parts you'll need to get are listed in the table bellow:
     <td>About $5 on aliexpress</td>
   </tr>
 </table>
-Also I don't know if this will be necesary because I haven't got the pcb yet, but I think the 3 caps on the bottom are likely necesary. The ADC pins just go crazy when nothing is connected to them, so I added a place to solder these caps. You should use 0.5-1uF 1206 SMD ceramic caps there to remove the noise on ADC lines.<br>
+Also I don't know if this will be necesary because I haven't got the pcb yet, but I think the 3 caps on the top are might be necesary. The ADC pins just go crazy when nothing is connected to them, so I added a place to solder these caps. You should use 0.5-1uF 1206 SMD ceramic caps there to remove the noise on ADC lines.<br>
 <br>
 The overall price for me with shipping was about $18,50, but I already had the dev board and the buttons, so the price per card is likely about $30.<br>
 <br>
 <br>
-<img width="500" height="auto" alt="ee" src="https://github.com/user-attachments/assets/74aa189b-66ad-4c5d-8206-af90a3fedae3" /><br>
-Solder 1K ohm resistors in the place circled in the image above. Everywhere else solder in your 200 ohm resistors. Solder in your dev board, buttons and the buzzer. Boot up your ArduinoIDE and install MIDIUSB library made by Gary Grewal and flash the firmware (StyloBuzz.ino) onto your board (choose Arduino Leonardo)! Congrats, you're done! Enjoy your StyloBuzz stylophone thingy!
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/1ab2578a-f60b-410b-8f3c-711425d0accc" />
+<br>
+Solder 1K ohm resistors in the place circled in the image above. Leave the footprint in bottom right corner without a resistor and everywhere else solder in your 200 ohm resistors. Solder in your dev board, buttons and the buzzer. Boot up your ArduinoIDE and install MIDIUSB library made by Gary Grewal and flash the firmware (StyloBuzz.ino) onto your board (choose Arduino Leonardo)! Congrats, you're done! Enjoy your StyloBuzz stylophone thingy!
 <br>
 <br>
 <br>
-Btw, you can add your info (like your name, phone number, etc.) on the back of the PCB! Just import PCB1_StyloBuzz.epro2 to pro.easyeda.com and add an image to the back of your PCB. Remember to select bottom silkscreen as the layer! (also ignore all of the DRC warnings, they show up because I've use an image for the keyboard
+Btw, you can add your info (like your name, phone number, etc.) on the back of the PCB! Just import PCB1_StyloBuzz.epro2 to pro.easyeda.com and add an image to the back of your PCB. Remember to select bottom silkscreen as the layer! (also ignore all of the DRC warnings, they show up because I've use an image for the keyboard <br>
+<br><hr>
+Also if you need it, here's a schematic!<br><br>
+<img width="500" height="auto" alt="SCH_Schematic1_1-P1_2026-11-19" src="https://github.com/user-attachments/assets/ac43aa1d-8674-4438-bc04-13b6597a6bf5" />
+
 <hr>
 <h3>Projects and tutorials I used for some help, inspiration and things like that:</h3><br>
 https://github.com/guszhang/pcb-stylophone/tree/main<br>
 https://projecthub.arduino.cc/pitpietro/midi-piano-keyboard-875eb7<br>
 https://mitxela.com/projects/stylocard<br>
 <hr>
-No AI was used in the making of this project.<br>
+No AI was used in the making of this project!<br>
 <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />

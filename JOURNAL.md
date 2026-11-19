@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 11.69h | 6 |
+| Week 3 | Tier 1 | 11.76h | 6 |
 
 ## Contents
 
@@ -99,7 +99,7 @@ Also I forgot to start lapse today. I'm 100% that I started working exactly at 6
 
 ### 2026-11-19: Worked for about 40 minutes today. I updated the repo with new images and things like that. I think I'll actually order a purple PCB instead of the black one, because honestly in my opinion it looks c
 
-**0.6h**
+**0.67h**
 
 Worked for about 40 minutes today. I updated the repo with new images and things like that. I think I'll actually order a purple PCB instead of the black one, because honestly in my opinion it looks cooler for a project like that
 
